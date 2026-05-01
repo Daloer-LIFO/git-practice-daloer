@@ -1,0 +1,1 @@
+"""This is a practice of Git creation for the OSTAD AI Engineering course. Module-8 assignment"""
