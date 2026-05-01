@@ -1,5 +1,7 @@
 Project Title:Git & GitHub Practical Assignment
+
 Your Name: Md Daloer Hossain
+
 What this project does: 
 1. Create and manage a GitHub repository
 2. Use Git locally
